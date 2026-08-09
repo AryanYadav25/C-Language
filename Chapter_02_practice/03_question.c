@@ -4,7 +4,7 @@ int main() {
     // program to check wheather a number is divisible by 97 or not 
 
     int a;
-    printf("Enter value of a to check: 56");
+    printf("Enter value of a to check: ");
     scanf("%d", &a);
     
     if(a%97 == 0){
