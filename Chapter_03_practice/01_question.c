@@ -12,6 +12,5 @@ int main() {
     else{
         printf("I am not 11");
     }
-
     return 0;
 }
