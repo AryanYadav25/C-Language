@@ -2,7 +2,6 @@
     // write a program to check if student is passed or failed by taking input from student, to pass student need
     // 40% marks and 33% in each subject and there is 3 subjects
 
-
     #include <stdio.h>
 
     int main() {
